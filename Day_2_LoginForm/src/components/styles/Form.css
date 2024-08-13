@@ -1,0 +1,35 @@
+   body, html {
+    font-family: Arial, sans-serif;
+    height: 100%;
+  }
+    
+  .form-container {
+    padding: 30px;
+    margin: 5vh 5vw 5vh 5vw;
+    font-size: 25px;
+  }
+
+  .form-group {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    background: #007bffcd;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background: #0056b3;
+  }
+  
+  .p-text{
+    font-size: 20px;
+  }
